@@ -55,3 +55,15 @@ reshaped = a.reshape(2, 3)
 
 print("Reshaped:\n", reshaped)
 print("Reshaped shape:", reshaped.shape)
+
+
+m = np.array([[1, 2, 3],
+              [4, 5, 6]])
+
+print("Original:\n", m)
+print("Original shape:", m.shape)
+
+t = m.T
+
+print("Transposed:\n", t)
+print("Transposed shape:", t.shape)
