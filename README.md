@@ -11,8 +11,7 @@ Focus areas:
 - Exploratory Data Analysis (EDA)
 - Data preprocessing fundamentals
 
-← Back to Hub: https://github.com/Ram-466/ml-hub  
-Roadmap: https://github.com/Ram-466/ml-roadmap  
+← Back to Hub: https://github.com/Ram-466/ml-hub
 
 ---
 
